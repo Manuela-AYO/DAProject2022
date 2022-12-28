@@ -87,3 +87,9 @@ webcolors==1.12
 webencodings==0.5.1
 websocket-client==1.4.2
 widgetsnbextension==4.0.4
+requests
+numpy
+pandas
+spotipy
+multiprocessing
+ratelimit
